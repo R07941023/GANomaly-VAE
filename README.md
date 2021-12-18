@@ -1,8 +1,8 @@
-# GANomaly
+# GANomaly + VAE
 
 
 
-## 5. Citing GANomaly
+## 1. Citing GANomaly
 If you use this repository or would like to refer the paper, please use the following BibTeX entry
 ```
 @inproceedings{akcay2018ganomaly,
@@ -15,5 +15,5 @@ If you use this repository or would like to refer the paper, please use the foll
 }
 ```
 
-## 6. Reference
+## 2. Reference
 [1]  Akcay S., Atapour-Abarghouei A., Breckon T.P. (2019) GANomaly: Semi-supervised Anomaly Detection via Adversarial Training. In: Jawahar C., Li H., Mori G., Schindler K. (eds) Computer Vision – ACCV 2018. ACCV 2018. Lecture Notes in Computer Science, vol 11363. Springer, Cham
